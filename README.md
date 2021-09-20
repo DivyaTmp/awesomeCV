@@ -111,7 +111,7 @@
    <details>
    <summary>Summary</summary>
 
-   探讨了基于视觉 Transformer 的 ViT，将其用于目标重识别（ReID）任务。经过几次改进，以 ViT 为骨干构建了一个强大的基线 ViT-BoT，在几个 ReID 基准上，该结果与基于卷积神经网络（CNN-）的框架可比。
+   探讨了基于视觉 Transformer 的 ViT，将其用于目标重识别（ReID）任务：以 ViT 为骨干构建了一个强大的基线 ViT-BoT。在多个 ReID 基准上，结果可以与基于 CNN 的框架相提并论。
 
    ![](./figures/TransReID.png)
 
