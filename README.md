@@ -21,7 +21,7 @@
    <summary>Summary</summary>
 
 
-   提出通过使用即插即用模块建模适当的中间域来考虑源域和target域之间的桥接，这有助于UDA ReID中两个极端域之间的逐步适应。
+   提出通过使用即插即用模块建模适当的中间域来考虑源域和 target 域之间的桥接，这有助于 UDA ReID 中两个极端域之间的逐步适应。
 
    ![](./figures/IDM.png)
    </details>
