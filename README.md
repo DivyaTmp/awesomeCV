@@ -15,7 +15,7 @@
 
 1. **IDM: An Intermediate Domain Module for Domain Adaptive Person Re-ID (<a id='IDM'>IDM</a>)** 
 
-   *Yongxing Dai, Jun Liu, Yifan Sun, Zekun Tong, Chi Zhang, Ling-Yu Duan* <br>ICCV, 2021, Oral. [[Paper\]](https://arxiv.org/abs/2108.02413) [[Code\]](https://github.com/jxwuyi/HouseNavAgent)
+   *Yongxing Dai, Jun Liu, Yifan Sun, Zekun Tong, Chi Zhang, Ling-Yu Duan* <br>ICCV, 2021, Oral. [[Paper\]](https://arxiv.org/abs/2108.02413) [[Code\]](https://github.com/SikaStar/IDM?utm_source=catalyzex.com)
 
    <details>
    <summary>Summary</summary>
