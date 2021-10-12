@@ -17,7 +17,7 @@
 
 ### 1 安装 PyTorch
 
-#### 1.1  Linux 命令行安装
+#### 1.1  Linux 命令行安装(#1.1)
 
 - 根据自己的安装版本，在 pytorch 官网寻找对应安装命令：https://pytorch.org/
 
