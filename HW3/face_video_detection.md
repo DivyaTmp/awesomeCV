@@ -77,10 +77,10 @@
   conda install torchvision torchaudio cudatoolkit=10.2 -c pytorch
   ``````
 
-  
-
-
 <br>
+
+
+
 ### 2 视频人脸检测
 
 #### 2.1 基于 OpenCV 视频人脸检测<span id="2.1"></span>
@@ -168,6 +168,7 @@
 
   [face_video_detection_opencv.py](./codes/face_video_detection_opencv.py)
 
+<br>
 
 
 #### 2.2 使用 Opencv 自带函数进行图像增强<span id="2.2"></span>
@@ -205,6 +206,7 @@
 
   [face_video_detection_opencv_gaussianblur.py](./codes/face_video_detection_opencv_gaussianblur.py)
 
+<br>
   
 
 #### 2.3 基于 Dlib 视频人脸检测<span id="2.3"></span>
