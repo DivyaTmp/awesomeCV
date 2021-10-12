@@ -9,7 +9,7 @@
 
 #### 目录
 
-**安装 PyTorch：**[Linux命令安装](#1.1  Linux 命令行安装) | [Windows 使用 Anaconda Navigator 安装](#1.2 Windows 使用 Anacoda Navigator 安装)
+**安装 PyTorch：**[Linux命令安装](#1.1) | [Windows 使用 Anaconda Navigator 安装](#1.2 Windows 使用 Anacoda Navigator 安装)
 
 **视频人脸检测：**[基于 OpenCV 视频人脸检测](#2.1 基于 OpenCV 视频人脸检测) | [使用 OpenCV 自带函数进行图像增强](#2.2 使用 Opencv 自带函数进行图像增强) | [基于 Dlib 视频人脸检测](#2.3 基于 Dlib 视频人脸检测)
 
