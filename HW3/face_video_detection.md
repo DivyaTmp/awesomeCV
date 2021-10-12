@@ -165,7 +165,7 @@
 
   
 
-- 源代码
+- 源代码：
 
   [face_video_detection_opencv.py](./codes/face_video_detection_opencv.py)
 
@@ -270,7 +270,7 @@
 
   
 
-- 源代码
+- 源代码：
 
   [face_video_detection_dlib.py](./codes/face_video_detection_dlib)
 
