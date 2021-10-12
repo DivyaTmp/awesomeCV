@@ -35,13 +35,13 @@
 
 - 进入虚拟环境 `python3` 后，输入命令进行安装 ：
 
-  ![1](.\figs\cmd1.png)
+  <img src="./figs/cmd1.png" alt="img" style="zoom:67%;" />
 
   
 
 - 等待安装完成：
 
-  ![1](.\figs\cmd2.png)
+  <img src="./figs/cmd2.png" alt="img" style="zoom:67%;" />
 
   
 
@@ -56,7 +56,7 @@
 
 - 出现如下界面，至此，安装全部完成：
 
-  ![cmd3](.\figs\cmd4.png)
+  <img src="./figs/cmd3.png" alt="img" style="zoom:67%;" />
 
 
 
@@ -66,7 +66,7 @@
 
 - 打开 Anaconda Navigation：选定虚拟环境，搜索 `torch`，点击 `Apply`。
 
-  ![gui](.\figs\gui.png)
+  <img src="./figs/gui.png" alt="img" style="zoom:67%;" />
 
 
 
@@ -159,7 +159,7 @@
 
 - 检测效果示例：
 
-  ![out1_opencv](.\figs\out_opencv.gif)
+  <img src="./figs/out_opencv.gif" alt="img" style="zoom:67%;" />
 
   
 
@@ -181,7 +181,7 @@
 
   检测效果示例：
 
-  ![out1_opencv_filter2d](.\figs\out_opencv_filter2d.gif)
+  <img src="./figs/out_opencv_filter2d.gif" alt="img" style="zoom:67%;" />
 
   源代码：
 
@@ -198,7 +198,7 @@
 
   检测效果示例：
 
-  ![out1_opencv_gaussian](.\figs\out_opencv_gaussian.gif)
+  <img src="./figs/out_opencv_gaussian.gif" alt="img" style="zoom:67%;" />
 
   源代码：
 
@@ -260,7 +260,7 @@
 
 - 检测效果示例：
 
-  ![out1_dlib](.\figs\out_dlib.gif)
+  <img src="./figs/out_dlib.gif" alt="img" style="zoom:67%;" />
 
   相较于基于 Opencv 的方法，检测效果有些许提升。
 
