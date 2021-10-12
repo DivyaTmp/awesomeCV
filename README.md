@@ -4,9 +4,10 @@ Course of Peking University Shenzhen Graduate School, 2021 Fall , instructed by 
 
 
 
-| Update Time | Task               | DOCs                               |
-| ----------- | ------------------ | ---------------------------------- |
-| 21 Sep      | Paper Reading List | [hw1](./HW1/paper_reading_list.md) |
-| 28 Sep      | Face Detection     | [hw2](./HW2/face_detection.md)     |
-|             |                    |                                    |
+| Update Time | Task                     | DOCs                                     |
+| ----------- | ------------------------ | ---------------------------------------- |
+| 21 Sep      | Paper Reading List       | [hw1](./HW1/paper_reading_list.md)       |
+| 28 Sep      | Face Detection           | [hw2](./HW2/face_detection.md)           |
+| 12 Oct      | Video Face Detection     | [hw3](./HW3/face_video_detection.md)     |
+|             |                          |                                          |
 
