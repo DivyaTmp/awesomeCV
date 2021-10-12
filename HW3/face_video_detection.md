@@ -19,7 +19,7 @@
 
 #### 1.1  Linux 命令行安装
 
-- 根据自己的安装版本，在pytorch网站寻找代码：https://pytorch.org/
+- 根据自己的安装版本，在 pytorch 官网寻找对应安装命令：https://pytorch.org/
 
   <img src="./figs/torch.png" alt="img" style="zoom:67%;" />
 
