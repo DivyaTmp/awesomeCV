@@ -62,7 +62,7 @@
 
 
 
-#### 1.2 Windows 使用 Anacoda Navigator 安装
+#### 1.2 Windows 使用 Anacoda Navigator 安装<span id="1.2"></span>
 
 - 打开 Anaconda Navigation：选定虚拟环境，搜索 `torch`，点击 `Apply`。
 
@@ -82,7 +82,7 @@
 
 ### 2 视频人脸检测
 
-#### 2.1 基于 OpenCV 视频人脸检测
+#### 2.1 基于 OpenCV 视频人脸检测<span id="2.1"></span>
 
 - 图像人脸检测函数
 
@@ -169,7 +169,7 @@
 
 
 
-#### 2.2 使用 Opencv 自带函数进行图像增强
+#### 2.2 使用 Opencv 自带函数进行图像增强<span id="2.2"></span>
 
 - 调用滤波函数 filter2D 进行卷积
 
@@ -206,7 +206,7 @@
 
   
 
-#### 2.3 基于 Dlib 视频人脸检测
+#### 2.3 基于 Dlib 视频人脸检测<span id="2.3"></span>
 
 - 安装 Dlib 相关环境
 
