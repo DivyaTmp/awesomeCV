@@ -159,7 +159,7 @@
 
 - 检测效果示例：
 
-  ![out1_opencv](.\figs\out_opencv.mp4)
+  ![out1_opencv](.\figs\out_opencv.gif)
 
   
 
@@ -181,7 +181,7 @@
 
   检测效果示例：
 
-  ![out1_opencv_filter2d](.\figs\out_opencv_filter2d.mp4)
+  ![out1_opencv_filter2d](.\figs\out_opencv_filter2d.gif)
 
   源代码：
 
@@ -198,7 +198,7 @@
 
   检测效果示例：
 
-  ![out1_opencv_gaussian](.\figs\out_opencv_gaussian.mp4)
+  ![out1_opencv_gaussian](.\figs\out_opencv_gaussian.gif)
 
   源代码：
 
@@ -260,7 +260,7 @@
 
 - 检测效果示例：
 
-  ![out1_dlib](.\figs\out_dlib.mp4)
+  ![out1_dlib](.\figs\out_dlib.gif)
 
   相较于基于 Opencv 的方法，检测效果有些许提升。
 
