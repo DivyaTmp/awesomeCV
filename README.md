@@ -1,6 +1,6 @@
 # Computer Vision Homework
 
-Course of Peking University Shenzhen Graduate School, 2021 Fall , instructed by Professor Zhang.
+Course of Peking University Shenzhen Graduate School | 2021 Fall | Instructed by Professor Zhang.
 
 
 
